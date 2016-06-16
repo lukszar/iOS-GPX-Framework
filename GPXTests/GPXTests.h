@@ -6,8 +6,8 @@
 //  Copyright (c) 2012年 _MyCompanyName_. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface GPXTests : SenTestCase
+@interface GPXTests : XCTestCase
 
 @end
